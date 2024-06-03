@@ -12,6 +12,7 @@ This report helps to explore what makes a movie successful. We analyze the relat
 Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies.
 
 To help better understand the movie industry, our team is charged with exploring what types of films are currently doing the best at the box office. We then translate those findings into actionable insights that the head of Microsoft's new movie studio, Microsoft Cinema, can use to help decide what type of films to create.
+
 **2.1. Questions to consider:**
 
 Is making movies profitable?
