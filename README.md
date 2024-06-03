@@ -1,3 +1,4 @@
+
 # Microsoft_Movie_Analysis
 
 
@@ -25,6 +26,7 @@ Box Office Mojo
 IMDB
 Rotten Tomatoes
 TheMovieDB.org
+
 **3.1. Dataset selection criteria**
 
 After the initial exploration of the datasets, we have selected 3 datasets:
@@ -73,8 +75,9 @@ We repeated all processes above for a final check to ensure a complete dataframe
 
 
 
-**6.0 - Analysis Findings
-6.1. Is movie making profitable?:**
+**6.0 - Analysis Findings**
+
+**6.1. Is movie making profitable?:**
 
 The short answer is yes, but other variables should be taken into consideration.
 But there are huge risks to making movies, more than 47% of the movies analyzed are not profitable in a domestic setting.
@@ -96,8 +99,9 @@ The mean worldwide gross is close to $1.43 billion.
 Genre combinations classified as Adventure, Action, and Sci-Fi make up 60% of the Top 10 movies.
 The mean worldwide gross is close to $1.43 billion, with the mentioned genre combination dominating above other combinations.
 
-**7.0 - Evaluation
-7.1. Budget and Profit Targets**
+**7.0 - Evaluation**
+
+**7.1. Budget and Profit Targets**
 
 For the final evaluation, we can set expected targets for the production budget and target gross for what we want to achieve for a successful movie release.
 
